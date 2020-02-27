@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-read_write_separation/sharding-jdbc-read_write_separation.iml" filepath="$PROJECT_DIR$/sharding-jdbc-read_write_separation/sharding-jdbc-read_write_separation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-subtable/sharding-jdbc-subtable.iml" filepath="$PROJECT_DIR$/sharding-jdbc-subtable/sharding-jdbc-subtable.iml" />
+    </modules>
+  </component>
+</project>
