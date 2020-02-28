@@ -1,4 +1,4 @@
-package life.lovestudy.shardingjdbcsubtable;
+package life.lovestudy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
