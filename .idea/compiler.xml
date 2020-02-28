@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sharding-jdbc-read_write_separation" />
+        <module name="sharding-jdbc-subdatabase" />
         <module name="sharding-jdbc-subtable" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sharding-jdbc-read_write_separation" target="1.8" />
+      <module name="sharding-jdbc-subdatabase" target="1.8" />
       <module name="sharding-jdbc-subtable" target="1.8" />
     </bytecodeTargetLevel>
   </component>

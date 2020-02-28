@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/sharding-jdbc-read_write_separation/pom.xml" />
         <option value="$PROJECT_DIR$/sharding-jdbc-subtable/pom.xml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-subdatabase/pom.xml" />
       </list>
     </option>
   </component>
