@@ -5,5 +5,6 @@
     <file url="file://$PROJECT_DIR$/sharding-jdbc-read_write_separation/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/sharding-jdbc-subdatabase" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sharding-jdbc-subtable" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sharding-jdbc-table-database" charset="UTF-8" />
   </component>
 </project>

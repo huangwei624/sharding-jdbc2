@@ -9,12 +9,14 @@
         <module name="sharding-jdbc-read_write_separation" />
         <module name="sharding-jdbc-subdatabase" />
         <module name="sharding-jdbc-subtable" />
+        <module name="sharding-jdbc-table-database" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sharding-jdbc-read_write_separation" target="1.8" />
       <module name="sharding-jdbc-subdatabase" target="1.8" />
       <module name="sharding-jdbc-subtable" target="1.8" />
+      <module name="sharding-jdbc-table-database" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

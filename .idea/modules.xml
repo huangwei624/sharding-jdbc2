@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-read_write_separation/sharding-jdbc-read_write_separation.iml" filepath="$PROJECT_DIR$/sharding-jdbc-read_write_separation/sharding-jdbc-read_write_separation.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-subdatabase/sharding-jdbc-subdatabase.iml" filepath="$PROJECT_DIR$/sharding-jdbc-subdatabase/sharding-jdbc-subdatabase.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-subtable/sharding-jdbc-subtable.iml" filepath="$PROJECT_DIR$/sharding-jdbc-subtable/sharding-jdbc-subtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-table-database/sharding-jdbc-table-database.iml" filepath="$PROJECT_DIR$/sharding-jdbc-table-database/sharding-jdbc-table-database.iml" />
     </modules>
   </component>
 </project>
