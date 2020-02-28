@@ -10,6 +10,7 @@
         <module name="sharding-jdbc-subdatabase" />
         <module name="sharding-jdbc-subtable" />
         <module name="sharding-jdbc-table-database" />
+        <module name="sharding-jdbc-table-read-write" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="sharding-jdbc-subdatabase" target="1.8" />
       <module name="sharding-jdbc-subtable" target="1.8" />
       <module name="sharding-jdbc-table-database" target="1.8" />
+      <module name="sharding-jdbc-table-read-write" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
