@@ -13,4 +13,6 @@
 ### sharding-jdbc-table-read-write：单库分表+读写分离
 
 
-## 官方文档，https://shardingsphere.apache.org/document/current/cn/manual/sharding-jdbc/configuration/config-spring-boot/
+## 官方文档，
+
+### https://shardingsphere.apache.org/document/current/cn/manual/sharding-jdbc/configuration/config-spring-boot/
